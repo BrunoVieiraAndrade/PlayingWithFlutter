@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:hello_rectangle/MainContainer.dart';
+import 'package:hello_rectangle/CategoryList.dart';
 
 void main() {
   runApp(
@@ -10,7 +10,7 @@ void main() {
           title: new Text("Meu App"),
           backgroundColor: Colors.green,
         ),
-        body: new MainContainer("Hello World!"),
+        body: new CategoryList(),
       ),
     ),
   );

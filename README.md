@@ -1,8 +1,7 @@
-# hello_rectangle
+# Andrade Flutter Sample
 
-A new Flutter application.
+Just a sample of app developed on Flutter
 
 ## Getting Started
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+For now it's just a lab, but I intend to progress with it as long as I learn more about it.
